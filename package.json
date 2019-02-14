@@ -1,0 +1,23 @@
+{
+  "name": "donderdev-machine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel source/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "color": "^3.1.0",
+    "htm": "^2.0.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "vanilla-picker": "^2.7.2"
+  }
+}
